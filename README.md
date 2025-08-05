@@ -46,16 +46,18 @@
 
 | 프로젝트 | 설명 | 기간 | 참고 |
 |----------|------|------|------|
-| [오늘의 먹방은🍴](https://github.com/yeverycode/onmeok_flutter) | AI 기반 상황 인식 메뉴 추천 앱 (Flutter + FastAPI + GPT) | 2025.03 ~ 2025.05 | 메뉴/날씨/감정/지병 기반 추천 |
-| 
-| [AI 면접 플랫폼](https://github.com/yeverycode/ai-interview) | 자기소개 분석 + 표정·음성 피드백 플랫폼 | 2025.07 ~ | LangChain + OpenCV + Gaze Tracking |
+| [오늘의 먹방은🍴](https://github.com/yeverycode/TodayMenu) | AI 기반 개인 맞춤형 메뉴 추천 시스템<br>숙명여자대학교 IPS 대회 출품작 | 2025.04 ~ 2025.05 | FastAPI + React + GPT |
+| [WeStudy 📚](https://github.com/yeverycode/function) | 친구와 함께 공부하는 화상 스터디 플랫폼 | 2025.04 ~ 2025.06 | Java  |
+| [손소리](https://github.com/yeverycode/HandData) | 시각 장애인을 위한 수어 인식 AI 개발 (AI 파트 담당) | 2025.01 ~ 2025.02 | OpenCV + Python |
+| [아이티타임](https://github.com/yeverycode/ITIME) | 학과 정보 공유 웹사이트 개발 (기획~개발 전담) | 2024.07 ~ 2024.08 | HTML/CSS + JS + Python |
+
 
 ---
 
 ## 🎓 Experiences
 
-- **2024.03 ~ Present**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Google Developer Group Sookmyung Organizer  
-- **2024.08 ~ 2025.02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 GDG ML 스터디 참가 및 팀장  
+- **2025.09 ~ Present**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 25-26 Google Developer Group on Campus Organizer  
+- **2024.09 ~ 2025.06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 24-25 Google Developer Group on Campus Sookmyung Member
 
 ---
 
