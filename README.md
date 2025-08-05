@@ -72,15 +72,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeverycode&layout=compact&theme=tokyonight)
 
 <!-- GitHub Stats -->
-[![Yein's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeverycode&show_icons=true&theme=tokyonight)](https://github.com/yeverycode/github-readme-stats)
+<!-- [![Yein's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeverycode&show_icons=true&theme=tokyonight)](https://github.com/yeverycode/github-readme-stats) -->
 
 ---
 
-## 🔍 Algorithm & Study
-
-- 📌 [Tistory 블로그](https://yeverydein.tistory.com/)
-
----
 
 > ✨ 
 
