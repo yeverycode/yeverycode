@@ -6,9 +6,8 @@
 <!-- 연락처 -->
 <p align="center"><strong>📧 Contact</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/yeverycode@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ktyjj0306@sookmyung.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://yeverydein.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yevery.dein/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 <!-- 자기소개 -->
