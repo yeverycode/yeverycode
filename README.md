@@ -13,7 +13,7 @@
 <!-- 자기소개 -->
 <p align="center">
   안녕하세요 :)<br>
-  <strong>조예인</strong>입니다.
+  <strong></strong>
 </p>
 
 ---
