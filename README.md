@@ -43,6 +43,7 @@
 
 | 프로젝트 | 설명 | 기간 | 참고 |
 |----------|------|------|------|
+| CupCycle | 카페 컵 자동 분류 및 스마트 분리배출 시스템 | 2025.08 ~ 2025.09 | Django + React + TensorFlow + OpenCV |
 | [오늘의 먹방은](https://github.com/yeverycode/TodayMenu) | AI 기반 개인 맞춤형 메뉴 추천 시스템<br>숙명여자대학교 IPS 대회 출품작 | 2025.04 ~ 2025.05 | FastAPI + React + GPT |
 | [WeStudy 📚](https://github.com/yeverycode/function) | 친구와 함께 공부하는 화상 스터디 플랫폼 | 2025.04 ~ 2025.06 | Java  |
 | [손소리](https://github.com/yeverycode/HandData) | 시각 장애인을 위한 수어 인식 AI 개발 (AI 파트 담당) | 2025.01 ~ 2025.02 | OpenCV + Python |
