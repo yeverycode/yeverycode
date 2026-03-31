@@ -45,10 +45,10 @@
 |----------|------|------|------|
 | [ARM](https://github.com/2026-ARM/AI) | 2026-1 자기주도진로설계프로젝트<br>강의안 분석 및 학습 보조 웹 | 2026.03 ~  |  |
 | [십구만](https://github.com/2026-Quad-S-Team-10) | 2026 GDGoC 연합 프로젝트<br>경제 초심자를 위한 뉴스 학습 웹앱 | 2026.01 ~  |  |
-
 | [CupCycle](https://github.com/2025-Trash) | 카페 컵 자동 분류 및 스마트 분리배출 시스템<br>숙명여자대학교 MEIT 대회 장려상 수상작 | 2025.08 ~ 2025.09 | Django + React + TensorFlow + OpenCV |
+| [스펙타클](https://github.com/2026-Quad-S-Team-10) | AI기반 면접 학습 보조 웹<br>FE 파트 전담 | 2025.07 ~  | React |
 | [오늘의 먹방은](https://github.com/yeverycode/TodayMenu) | AI 기반 개인 맞춤형 메뉴 추천 시스템<br>숙명여자대학교 IPS 대회 동상 수상작 | 2025.04 ~ 2025.05 | FastAPI + React + GPT |
-| [WeStudy](https://github.com/yeverycode/function) | 친구와 함께 공부하는 화상 스터디 플랫폼 | 2025.04 ~ 2025.06 | Java  |
+| [WeStudy](https://github.com/yeverycode/function) | 친구와 함께 공부하는 화상 스터디 플랫폼 | 2025.04 ~ 2025.06 | Java |
 | [손소리](https://github.com/yeverycode/HandData) | 시각 장애인을 위한 수어 인식 AI 개발 (AI 파트 담당) | 2025.01 ~ 2025.02 | OpenCV + Python |
 | [아이티타임](https://github.com/yeverycode/ITIME) | 학과 정보 공유 웹사이트 개발 (기획~개발 전담) | 2024.07 ~ 2024.08 | HTML/CSS + JS + Python |
 
