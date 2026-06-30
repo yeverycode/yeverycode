@@ -43,6 +43,7 @@
 
 | 프로젝트                                                | 설명                                                     | 기간                | 참고                                       |
 | --------------------------------------------------- | ------------------------------------------------------ | ----------------- | ---------------------------------------- |
+| [Fingertips](https://github.com/2026-OSS)           | 2026-1 오픈소스프로그래밍 프로젝트<br>**시각장애 아동을 위한 AI 그림책 독서 보조 서비스** (Front-End · AI 담당) | 2026.05 ~ 2026.06 | React · FastAPI · YOLO11 · MediaPipe · TTS |
 | [ARM](https://github.com/2026-ARM/AI)               | 2026-1 자기주도진로설계프로젝트<br>강의안 분석 및 학습 보조 웹 (팀장)               | 2026.03 ~ 2026.06 | AI Server · FastAPI · Prompt Engineering |
 | [십구만](https://github.com/2026-Quad-S-Team-10)       | 2026 GDGoC 연합 프로젝트<br>경제 초심자를 위한 뉴스 학습 웹앱 (AI 파트)           | 2026.01 ~ 2026.06 | Multi-Agent System · FastAPI · LLM       |
 | [MAIN](https://github.com/yeverycode/MAIN)          | 2025-2 웹프로그래밍 팀프로젝트<br>학과 소개 웹사이트 리팩터링 (팀장)            | 2025.09 ~  2025.12 | HTML · CSS · JavaScript                  |
