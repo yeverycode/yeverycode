@@ -51,7 +51,7 @@
 | [스펙타클](https://github.com/24-AI-Interview/frontend) | AI 기반 면접 학습 보조 웹<br>Front-End 개발 담당                    | 2025.07 ~         | React · JavaScript                       |
 | [오늘의 먹방은](https://github.com/yeverycode/TodayMenu)  | 숙명여자대학교 IPS 대회 동상 수상작<br>AI 기반 개인 맞춤형 메뉴 추천 시스템 (팀장)       | 2025.04 ~ 2025.05 | FastAPI · React · GPT API                |
 | [WeStudy](https://github.com/yeverycode/function)   | 2025-1 객체지향프로그래밍 캡스톤디자인 프로젝트<br>친구와 함께 공부하는 화상 스터디 플랫폼 | 2025.04 ~ 2025.06 | Java · Swing                             |
-| [손소리](https://github.com/yeverycode/HandData)       | 2025 GDGoC 연합 프로젝트<br>시각장애인을 위한 수어 인식 모델 개발 (AI 파트) | 2025.01 ~ 2025.02 | OpenCV · Python · Computer Vision        |
+| [손소리](https://github.com/yeverycode/HandData)       | 2025 GDGoC 연합 프로젝트<br>청각장애인을 위한 수어 학습 웹사이트 개발 (AI 파트) | 2025.01 ~ 2025.02 | OpenCV · Python · Computer Vision        |
 | [아이티타임](https://github.com/yeverycode/ITIME)        | 2024 CODE-IT 방학 프로젝트<br>학과 정보 공유 웹사이트 개발 (기획~개발)       | 2024.07 ~ 2024.08 | HTML · CSS · JavaScript · Python         |
 
 
