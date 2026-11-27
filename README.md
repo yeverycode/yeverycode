@@ -45,7 +45,7 @@
 | --------------------------------------------------- | ------------------------------------------------------ | ----------------- | ---------------------------------------- |
 | [TurtleNeck](https://github.com/Dr-SongSunsang/Frontend) | 숙명여자대학교 2026 SMWU EDU EXPO 장려상 수상작<br>**센서 기반 실시간 자세 측정, 스트레칭 추천, 자세 통계를 제공하는 거북목 관리 웹 서비스** (Front-End) | 2026.09 ~ | React · TypeScript |
 | [TeacherHub](https://github.com/ai-sangsang-challenge-team4/Frontend) | AI 상상챌린지 1기<br>**AI로 학부모 문의를 분석하고 교사의 답변 작성을 돕는 학교 소통 서비스** (Front-End) | 2026.08 ~ | React · TypeScript |
-| [Fingertips](https://github.com/2026-OSS)           | 2026-1 오픈소스프로그래밍 프로젝트<br>**시각장애 아동을 위한 AI 그림책 독서 보조 서비스** (Front-End · AI 담당) | 2026.05 ~ 2026.06 | React · FastAPI · YOLO11 · MediaPipe · TTS |
+| [Fingertips](https://github.com/2026-OSS)           | 2026-1 오픈소스프로그래밍 프로젝트<br>**시각장애 아동을 위한 AI 그림책 독서 보조 서비스** (Front-End · AI) | 2026.05 ~ 2026.06 | React · FastAPI · YOLO11 · MediaPipe · TTS |
 | [ARM](https://github.com/2026-ARM/AI)               | 2026-1 자기주도진로설계프로젝트<br>강의안 분석 및 학습 보조 웹 (팀장)               | 2026.03 ~ 2026.06 | AI Server · Prompt Engineering |
 | [십구만](https://github.com/2026-Quad-S-Team-10)       | 2026 GDGoC 연합 프로젝트<br>경제 초심자를 위한 뉴스 학습 웹앱 (AI 파트)           | 2026.01 ~ 2026.06 | Multi-Agent System · LLM       |
 | [MAIN](https://github.com/yeverycode/MAIN)          | 2025-2 웹프로그래밍 팀프로젝트<br>학과 소개 웹사이트 리팩터링 (팀장)            | 2025.09 ~  2025.12 | HTML · CSS · JavaScript                  |
