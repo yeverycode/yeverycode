@@ -61,7 +61,7 @@
 
 ## 🎓 Experiences
 
-- **2026.09 ~ Present**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 숙명여대 자연어처리 연구실(SMU-NLP Lab) 학부연구생
+- **2026.09 ~ Present**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 SMU-NLP Lab 학부연구생
 - **2026.09 ~ 2026.11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 2026-2학기 산학협력프로젝트 과제 참여<br>「자연어 요구사항의 PRD 변환 및 자율 소프트웨어 개발을 위한 멀티모델 AI Agent Harness 설계 및 구현」 (참여기업 잇다)
 - **2026.03 ~ 2026.06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 2026-1학기 산학협력프로젝트 과제 참여<br>「외국인을 위한 TOPIK(한국어 능력시험) 대비 ‘지니토픽’ 솔루션」 (참여기업 다비다)
 - **2025.09 ~ Present**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 25-26 Google Developer Group on Campus Organizer  
