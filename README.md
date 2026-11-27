@@ -44,14 +44,14 @@
 | 프로젝트                                                | 설명                                                     | 기간                | 참고                                       |
 | --------------------------------------------------- | ------------------------------------------------------ | ----------------- | ---------------------------------------- |
 | [TurtleNeck](https://github.com/Dr-SongSunsang/Frontend) | 숙명여자대학교 2026 SMWU EDU EXPO 장려상 수상작<br>**센서 기반 실시간 자세 측정, 스트레칭 추천, 자세 통계를 제공하는 거북목 관리 웹 서비스** (Front-End) | 2026.09 ~ | React · TypeScript |
-| [TeacherHub](https://github.com/ai-sangsang-challenge-team4/Frontend) | AI 상상챌린지 1기<br>**AI로 학부모 문의를 분석하고 교사의 답변 작성을 돕는 학교 소통 서비스** (Front-End) | 2026.08 ~ | React · TypeScript<br>[서비스](https://teacherhub-bay.vercel.app) |
+| [TeacherHub](https://github.com/ai-sangsang-challenge-team4/Frontend) | AI 상상챌린지 1기<br>**AI로 학부모 문의를 분석하고 교사의 답변 작성을 돕는 학교 소통 서비스** (Front-End) | 2026.08 ~ | React · TypeScript |
 | [Fingertips](https://github.com/2026-OSS)           | 2026-1 오픈소스프로그래밍 프로젝트<br>**시각장애 아동을 위한 AI 그림책 독서 보조 서비스** (Front-End · AI 담당) | 2026.05 ~ 2026.06 | React · FastAPI · YOLO11 · MediaPipe · TTS |
 | [ARM](https://github.com/2026-ARM/AI)               | 2026-1 자기주도진로설계프로젝트<br>강의안 분석 및 학습 보조 웹 (팀장)               | 2026.03 ~ 2026.06 | AI Server · Prompt Engineering |
 | [십구만](https://github.com/2026-Quad-S-Team-10)       | 2026 GDGoC 연합 프로젝트<br>경제 초심자를 위한 뉴스 학습 웹앱 (AI 파트)           | 2026.01 ~ 2026.06 | Multi-Agent System · LLM       |
 | [MAIN](https://github.com/yeverycode/MAIN)          | 2025-2 웹프로그래밍 팀프로젝트<br>학과 소개 웹사이트 리팩터링 (팀장)            | 2025.09 ~  2025.12 | HTML · CSS · JavaScript                  |
 | [CupCycle](https://github.com/2025-Trash)           | 숙명여자대학교 MEIT 대회 장려상 수상작<br>카페 컵 자동 분류 및 스마트 분리배출 시스템   | 2025.08 ~ 2025.09 | Django · React · TensorFlow · OpenCV     |
 | [스펙타클](https://github.com/24-AI-Interview/frontend) | AI 기반 면접 학습 보조 웹<br>Front-End 개발 담당                    | 2025.07 ~         | React · JavaScript                       |
-| [오늘의 먹방은](https://github.com/yeverycode/TodayMenu)  | 숙명여자대학교 IPS 대회 동상 수상작<br>AI 기반 개인 맞춤형 메뉴 추천 시스템 (팀장)       | 2025.04 ~ 2025.05 | FastAPI · React                |
+| [오늘의 먹방은](https://github.com/yeverycode/TodayMenu)  | 숙명여자대학교 IPS 대회 동상 수상작<br>AI 기반 개인 맞춤형 메뉴 추천 시스템 (팀장)       | 2025.04 ~ 2025.05 | React                |
 | [WeStudy](https://github.com/yeverycode/function)   | 2025-1 객체지향프로그래밍 캡스톤디자인 프로젝트<br>친구와 함께 공부하는 화상 스터디 플랫폼 | 2025.04 ~ 2025.06 | Java · Swing                             |
 | [손소리](https://github.com/yeverycode/HandData)       | 2025 GDGoC 연합 프로젝트<br>청각장애인을 위한 수어 학습 웹사이트 개발 (AI 파트) | 2025.01 ~ 2025.02 | OpenCV · Python · Computer Vision        |
 | [아이티타임](https://github.com/yeverycode/ITIME)        | 2024 CODE-IT 방학 프로젝트<br>학과 정보 공유 웹사이트 개발 (기획~개발)       | 2024.07 ~ 2024.08 | HTML · CSS · JavaScript · Python         |
